@@ -1,0 +1,28 @@
+ .text_dark_blue{
+    color: #263A47;
+}
+
+.background_beige{
+    background-color: #DDD4C5;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.text_brown{
+    color: #423624;
+ 
+}
+
+.margin_left10{
+    margin-left: 10px;
+}
+
+.text_italic{
+    font-style: italic;
+}
+
+a{
+    color: rgba(121, 79, 79, 0.829);
+}
